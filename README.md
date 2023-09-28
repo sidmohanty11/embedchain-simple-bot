@@ -31,7 +31,8 @@ flask run
 
 ### Sneak peak,
 
-https://github.com/sidmohanty11/embedchain-simple-bot/assets/73601258/29707600-7341-4e65-bf6a-77ec59f88cf2
+https://github.com/sidmohanty11/embedchain-simple-bot/assets/73601258/1ddfbe37-ddf4-4612-93c2-38c6863cc219
+
 
 
 
