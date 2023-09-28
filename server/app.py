@@ -9,7 +9,6 @@ UPLOAD_FOLDER = './uploads'
 
 app = Flask(__name__)
 
-os.environ['OPENAI_API_KEY'] = app.config.from_envvar('OPENAI_API_KEY')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
